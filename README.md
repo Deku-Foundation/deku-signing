@@ -1,6 +1,6 @@
 # Deku Signing and Trust
 
-Trust policy and verification integration for Deku packages and releases.
+Defines trust policy for package and release metadata, signatures, key rotation and verification.
 
 ## Status
 
